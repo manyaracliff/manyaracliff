@@ -1,6 +1,6 @@
 ## Hi
 - @manyaracliff
-- web development & design, AI & machine learning
+- web development & design, AI & machine learning enthusiast
 - I’m currently learning at dedan kimathi university of technology
 - vue & svelte dev
 
